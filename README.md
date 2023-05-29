@@ -6,4 +6,4 @@
 
 😎 Here is my [Portfolio](https://stephenfuncode.github.io/portfolio/)
 
-![](https://komarev.com/ghpvc/?username=StephenFunCode&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=StephenFunCode)
