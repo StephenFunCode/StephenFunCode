@@ -1,7 +1,19 @@
-### Hi 👋, I am Stephen Harman
+# Stephen Harman
 
-💻 I am a software engineer
+Software engineer. Five years building transactional systems and multi-tenant platforms for fintech and insurtech, at Porch Financial, Domo, and Route.
 
-🎓 I have a Mathematics B.S. and a Computer Science B.S. from the University of Utah <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Utah_Utes_logo.svg" alt="go" width="20" height="20" align="center"/>
+C#, .NET, Kotlin, Java, Vue, React. Azure and AWS.
 
-😎 Here is my [Portfolio](https://stephenfuncode.github.io/portfolio/)
+## Selected work
+
+- **Porch Financial** — A life and annuity lifecycle state machine across 12 carriers, and a document engine for 100+ jurisdiction-specific forms.
+- **Domo** — A Kotlin and Java microservice for secure form execution, and a notification engine dispatching 50,000+ alerts a day.
+- **Route** — A React admin portal handling 500,000+ support requests a year.
+
+## Study
+
+B.S. Mathematics and B.S. Computer Science, University of Utah.
+
+## Links
+
+[Portfolio](https://stephenfuncode.github.io/portfolio) · [LinkedIn](https://www.linkedin.com/in/stephenh2017/)
